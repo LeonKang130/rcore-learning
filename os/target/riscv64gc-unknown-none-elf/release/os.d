@@ -1,0 +1,1 @@
+/mnt/c/Users/kang/Desktop/rcore-learning/os/target/riscv64gc-unknown-none-elf/release/os: /mnt/c/Users/kang/Desktop/rcore-learning/os/src/console.rs /mnt/c/Users/kang/Desktop/rcore-learning/os/src/entry.asm /mnt/c/Users/kang/Desktop/rcore-learning/os/src/lang_items.rs /mnt/c/Users/kang/Desktop/rcore-learning/os/src/main.rs /mnt/c/Users/kang/Desktop/rcore-learning/os/src/sbi.rs
